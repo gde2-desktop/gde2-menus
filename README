@@ -1,0 +1,33 @@
+gde2-menus
+===========
+
+gde2-menus contains the libgde2-menu library, the layout configuration
+files for the GDE2 menu, as well as a simple menu editor.
+
+The libgde2-menu library implements the "Desktop Menu Specification"
+from freedesktop.org:
+
+  http://freedesktop.org/wiki/Specifications/menu-spec
+  http://specifications.freedesktop.org/menu-spec/menu-spec-latest.html
+
+You may download updates to the package from:
+
+   http://pub.gde2-desktop.org/
+
+gde2-menus is a fork of gnome-menus.
+
+Installation
+============
+
+If you are not using a released version of gde2-menus (for example, if
+you checked out the code from git), you first need to run './autogen.sh'.
+
+
+How to report bugs
+==================
+
+Bugs should be reported to the GDE2 bug tracking system:
+
+   https://github.com/gde2-desktop/gde2-menus/issues
+
+You will need to create an account for yourself.

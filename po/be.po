@@ -1,0 +1,173 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# nab <nab@mail.by>, 2005,2007
+# nab <nab@mail.by>, 2005,2007
+# booxter <ihar.hrachyshka@gmail.com>, 2006,2014
+# booxter <ihar.hrachyshka@gmail.com>, 2006
+# Mihail Varantsou <meequz@gmail.com>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: GDE2 Desktop Environment\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-09 13:05+0200\n"
+"PO-Revision-Date: 2015-11-09 09:11+0000\n"
+"Last-Translator: Mihail Varantsou <meequz@gmail.com>\n"
+"Language-Team: Belarusian (http://www.transifex.com/gde2/GDE2/language/be/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: be\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);\n"
+
+#: ../desktop-directories/gde2-audio-video.directory.in.h:1
+msgid "Sound & Video"
+msgstr "Аўдыё і відэа"
+
+#: ../desktop-directories/gde2-audio-video.directory.in.h:2
+msgid "Multimedia menu"
+msgstr "Мультымедыя"
+
+#: ../desktop-directories/gde2-development.directory.in.h:1
+msgid "Programming"
+msgstr "Праграмаванне"
+
+#: ../desktop-directories/gde2-development.directory.in.h:2
+msgid "Tools for software development"
+msgstr "Сродкі распрацоўкі праграм"
+
+#: ../desktop-directories/gde2-education.directory.in.h:1
+msgid "Education"
+msgstr "Адукацыя"
+
+#: ../desktop-directories/gde2-game.directory.in.h:1
+msgid "Games"
+msgstr "Гульні"
+
+#: ../desktop-directories/gde2-game.directory.in.h:2
+msgid "Games and amusements"
+msgstr "Гульні і забавы"
+
+#: ../desktop-directories/gde2-graphics.directory.in.h:1
+msgid "Graphics"
+msgstr "Графіка"
+
+#: ../desktop-directories/gde2-graphics.directory.in.h:2
+msgid "Graphics applications"
+msgstr "Графічныя праграмы"
+
+#: ../desktop-directories/gde2-hardware.directory.in.h:1
+msgid "Hardware"
+msgstr "Апаратура"
+
+#: ../desktop-directories/gde2-hardware.directory.in.h:2
+msgid "Settings for several hardware devices"
+msgstr "Настáўленні некаторай апаратуры"
+
+#: ../desktop-directories/gde2-internet-and-network.directory.in.h:1
+msgid "Internet and Network"
+msgstr "Інтэрнэт і сетка"
+
+#: ../desktop-directories/gde2-internet-and-network.directory.in.h:2
+msgid "Network-related settings"
+msgstr "Настáўленні, што датычаць сеткі"
+
+#: ../desktop-directories/gde2-look-and-feel.directory.in.h:1
+msgid "Look and Feel"
+msgstr "Выгляд і паводзіны"
+
+#: ../desktop-directories/gde2-look-and-feel.directory.in.h:2
+msgid "Settings controlling the desktop appearance and behavior"
+msgstr "Настáўленні, якія кантралююць вонкавы выгляд і паводзіны асяроддзя"
+
+#: ../desktop-directories/gde2-network.directory.in.h:1
+msgid "Internet"
+msgstr "Інтэрнэт"
+
+#: ../desktop-directories/gde2-network.directory.in.h:2
+msgid "Programs for Internet access such as web and email"
+msgstr "Праграмы для доступу да інтэрнэту (Сеціва, пошта і інш.)"
+
+#: ../desktop-directories/gde2-office.directory.in.h:1
+msgid "Office"
+msgstr "Офіс"
+
+#: ../desktop-directories/gde2-office.directory.in.h:2
+msgid "Office Applications"
+msgstr "Офісныя праграмы"
+
+#. Translators: this is Personal as in "Personal settings"
+#: ../desktop-directories/gde2-personal.directory.in.h:2
+msgid "Personal"
+msgstr "Персанальныя"
+
+#: ../desktop-directories/gde2-personal.directory.in.h:3
+msgid "Personal settings"
+msgstr "Персанальныя настáўленні"
+
+#: ../desktop-directories/gde2-settings-system.directory.in.h:1
+msgid "Administration"
+msgstr "Адміністраванне"
+
+#: ../desktop-directories/gde2-settings-system.directory.in.h:2
+msgid "Change system-wide settings (affects all users)"
+msgstr "Змены сістэмных настáўленняў (датычаць ўсіх карыстальнікаў)"
+
+#: ../desktop-directories/gde2-settings.directory.in.h:1
+msgid "Preferences"
+msgstr "Настáўленні"
+
+#: ../desktop-directories/gde2-settings.directory.in.h:2
+msgid "Personal preferences"
+msgstr "Персанальныя настáўленні"
+
+#: ../desktop-directories/gde2-system.directory.in.h:1
+#: ../desktop-directories/gde2-menu-system.directory.in.h:1
+msgid "System"
+msgstr "Сістэма"
+
+#: ../desktop-directories/gde2-system.directory.in.h:2
+msgid "System settings"
+msgstr "Сістэмныя настáўленні"
+
+#: ../desktop-directories/gde2-system-tools.directory.in.h:1
+msgid "System Tools"
+msgstr "Сістэмныя сродкі"
+
+#: ../desktop-directories/gde2-system-tools.directory.in.h:2
+msgid "System configuration and monitoring"
+msgstr "Настáўленне і назіранне за сістэмай"
+
+#: ../desktop-directories/gde2-utility-accessibility.directory.in.h:1
+msgid "Universal Access"
+msgstr "Універсальны доступ"
+
+#: ../desktop-directories/gde2-utility-accessibility.directory.in.h:2
+msgid "Universal Access Settings"
+msgstr "Настáўленні ўніверсальнага доступу"
+
+#: ../desktop-directories/gde2-utility.directory.in.h:1
+msgid "Accessories"
+msgstr "Інструменты"
+
+#: ../desktop-directories/gde2-utility.directory.in.h:2
+msgid "Desktop accessories"
+msgstr "Настольныя інструменты"
+
+#: ../desktop-directories/gde2-menu-applications.directory.in.h:1
+msgid "Applications"
+msgstr "Праграмы"
+
+#: ../desktop-directories/gde2-menu-system.directory.in.h:2
+msgid "Personal preferences and administration settings"
+msgstr "Персанальныя перавагі і адміністрацыйныя настáўленні"
+
+#: ../desktop-directories/gde2-other.directory.in.h:1
+msgid "Other"
+msgstr "Іншыя"
+
+#: ../desktop-directories/gde2-other.directory.in.h:2
+msgid "Applications that did not fit in other categories"
+msgstr "Праграмы, якія не трапілі ў іншыя катэгорыі"

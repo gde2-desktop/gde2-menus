@@ -1,0 +1,59 @@
+<!DOCTYPE Menu PUBLIC "-//freedesktop//DTD Menu 1.0//EN"
+ "http://www.freedesktop.org/standards/menu-spec/1.0/menu.dtd">
+
+<Menu>
+
+  <Name>Desktop</Name>
+  <Directory>gde2-menu-system.directory</Directory>
+
+  <!-- Read standard .directory and .desktop file locations -->
+  <DefaultAppDirs/>
+  <DefaultDirectoryDirs/>
+
+  <!-- Read in overrides and child menus from applications-merged/ -->
+  <DefaultMergeDirs/>
+  <MergeDir>preferences-merged</MergeDir>
+
+  <!-- Add a link to the control center -->
+  <Include>
+    <Filename>gde2cc.desktop</Filename>
+  </Include>
+
+  <!-- Merge in these other files as submenus -->
+  <Menu>
+    <Name>Preferences</Name>
+    <Directory>gde2-settings.directory</Directory>
+    <Include>
+      <And>
+        <Category>Settings</Category>
+        <Not>
+          <Or>
+            <Category>System</Category>
+            <Filename>gde2cc.desktop</Filename>
+          </Or>
+        </Not>
+      </And>
+    </Include>
+    <MergeFile>gde2-preferences-categories.menu</MergeFile>
+  </Menu>
+
+  <!-- System Settings -->
+  <Menu>
+    <Name>Administration</Name>
+    <Directory>gde2-settings-system.directory</Directory>
+    <Include>
+      <And>
+        <Category>Settings</Category>
+        <Category>System</Category>
+      </And>
+    </Include>
+  </Menu>     <!-- End System Settings -->
+
+  <Layout>
+    <Menuname>Preferences</Menuname>
+    <Menuname>Administration</Menuname>
+    <Merge type="menus"/>
+    <Merge type="files"/>
+  </Layout>
+
+</Menu> <!-- End Settings -->

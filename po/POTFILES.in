@@ -1,0 +1,22 @@
+# List of source files containing translatable strings.
+# Please keep this file sorted alphabetically.
+desktop-directories/gde2-audio-video.directory.in
+desktop-directories/gde2-development.directory.in
+desktop-directories/gde2-education.directory.in
+desktop-directories/gde2-game.directory.in
+desktop-directories/gde2-graphics.directory.in
+desktop-directories/gde2-hardware.directory.in
+desktop-directories/gde2-internet-and-network.directory.in
+desktop-directories/gde2-look-and-feel.directory.in
+desktop-directories/gde2-network.directory.in
+desktop-directories/gde2-office.directory.in
+desktop-directories/gde2-personal.directory.in
+desktop-directories/gde2-settings-system.directory.in
+desktop-directories/gde2-settings.directory.in
+desktop-directories/gde2-system.directory.in
+desktop-directories/gde2-system-tools.directory.in
+desktop-directories/gde2-utility-accessibility.directory.in
+desktop-directories/gde2-utility.directory.in
+desktop-directories/gde2-menu-applications.directory.in
+desktop-directories/gde2-menu-system.directory.in
+desktop-directories/gde2-other.directory.in
